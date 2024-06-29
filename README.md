@@ -5,6 +5,15 @@
 |------|---------|
 | <a name="requirement_google"></a> [google](#requirement\_google) | 5.29.1 |
 
+
+## Function Deployed
+
+[Github Repo](https://github.com/mdmourao/menu-bot)  
+
+## Deployed Infrastructure
+
+![GCP Architecture](./architecture.png)
+
 ## Providers
 
 No providers.
